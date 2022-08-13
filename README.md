@@ -2,7 +2,7 @@
 
 <b>Tujuan : </b>
 <ul>
-  <li>Memahami Internal Style Javascript.</li>
+  <li>Memahami Fungsi Internal Style Javascript.</li>
 </ul>
 
 <b>Output in browser : </b>
